@@ -2,7 +2,7 @@ app:
   name: AtiTv
   authors: recloudstream
   category: entertainment
-  description: Android app for streaming and downloading media.
+  description: Android app for streaming and downloading medi.
   icon: https://raw.githubusercontent.com/atillak06/cloudstream/995b562dce8df0b2b96d983226588cda207082cf/movie.svg
   releases:
     url: https://github.com/recloudstream/cloudstream/releases
